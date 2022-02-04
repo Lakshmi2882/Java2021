@@ -17,4 +17,8 @@ public interface  Interfaceconcept {
 	{// default methods
 		
 	}
+	public static void Tax()
+	{
+		System.out.println("enter tax details");
+	}
 }

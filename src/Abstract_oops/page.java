@@ -23,5 +23,8 @@ public abstract class page {
 	{
 		System.out.println("page logo");
 	}
-	
+	public static void logo(int i)
+	{
+		
+	}
 }
